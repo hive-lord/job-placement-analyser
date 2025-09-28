@@ -1,4 +1,4 @@
-# job-placement-analyser
+# job-placement-analyser (job_placement _analyzer.ipynb)
 My second ML project. This model entails logistic and linear regression models to find if you can get a job.
 
 # Logistic + Linear Regression Comparison
